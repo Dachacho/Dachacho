@@ -1,5 +1,4 @@
 ## hey there
---- 
 
 I am a software engineer from georgia mainly specializing in backend.
 
