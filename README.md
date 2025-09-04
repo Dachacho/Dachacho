@@ -1,6 +1,8 @@
 # Hey there
 
-I am a software engineer from georgia mainly specializing in backend.
+Hi I’m Dachi a software engineer from Georgia mostly specializing on backend development.  
+I enjoy building things that work well, learning new technologies, and solving problems through code.  
+When I’m not coding, I like exploring ideas for side projects and keeping up with tech trends.
 
 <h2 align="left"> Languages and Tools:</h2>
 <p><b>Technologies I've used:</b></p>
