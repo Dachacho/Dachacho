@@ -35,8 +35,8 @@ I am a software engineer from georgia mainly specializing in backend.
 ---
 ![Dachacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dachacho&show_icons=true&theme=dark)
 
-## Contact
-- Discord: dachiarevadze
-- Email: arevadzedachi123@gmail.com
-- LinkedIn: [Dachi Arevadze](https://www.linkedin.com/in/dachi-arevadze-461b23137/)
+## Contact Me
 
+- **Email:** [arevadzedachi123@gmail.com](mailto:arevadzedachi123@gmail.com)  
+- **LinkedIn:** [Dachi Arevadze](https://www.linkedin.com/in/dachi-arevadze-461b23137/)  
+- **Discord:** dachiarevadze
