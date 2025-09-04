@@ -1,5 +1,12 @@
-## Hi there 👋
+## hey there
+--- 
 
+I am a software engineer from georgia mainly specializing in backend.
+
+## Contact
+- Discord: dachiarevadze
+- Email: arevadzedachi123@gmail.com
+- LinkedIn: [Dachi Arevadze](https://www.linkedin.com/in/dachi-arevadze-461b23137/)
 <!--
 **Dachacho/Dachacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
