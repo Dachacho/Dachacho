@@ -35,7 +35,8 @@ When I’m not coding, I like exploring ideas for side projects and keeping up w
 </div>
 
 ---
-![Dachacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dachacho&show_icons=true&theme=dark)
+![Dachi Arevadze's Stats](https://github-readme-stats.vercel.app/api?username=Dachacho&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+---
 
 ## Contact Me
 
