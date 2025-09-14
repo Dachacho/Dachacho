@@ -1,10 +1,6 @@
 # Hey there
 
-Hi I’m Dachi a software engineer from Georgia mostly specializing on backend development.
-
-I enjoy building things, learning new technologies, and solving problems.
-
-When I’m not coding, I like exploring new ideas and keeping up with tech trends.
+Hi I’m Dachi a Computer Science student/software engineer from Georgia with focus on backend development. I enjoy building things, learning new technologies, and solving problems. When I’m not coding, I enjoy exploring new ideas-whether that’s diving into tech trends, experimenting with music production, or learning about game development and computer graphics.
 
 <h2 align="left"> Languages and Tools:</h2>
 <p><b>Technologies I've used:</b></p>
@@ -15,13 +11,13 @@ When I’m not coding, I like exploring new ideas and keeping up with tech trend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
-  <!-- C# and .NET -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
   <!-- Java and Spring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+    <!-- C# and .NET -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
   <!-- Python, Django, FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
