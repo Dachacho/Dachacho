@@ -34,6 +34,8 @@ Hi I’m Dachi a Computer Science student/software engineer from Georgia with fo
 
 ---
 ![Dachi Arevadze's Stats](https://github-readme-stats.vercel.app/api?username=Dachacho&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ---
 
 ## Contact Me
