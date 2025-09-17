@@ -35,8 +35,6 @@ Hi I’m Dachi a Computer Science student/software engineer from Georgia with fo
 ---
 ![Dachi Arevadze's Stats](https://github-readme-stats.vercel.app/api?username=Dachacho&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dachacho&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dachacho&theme=highcontrast&hide_progress=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me
