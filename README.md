@@ -1,7 +1,6 @@
 # Hey there
 
-Hi I’m Dachi a Computer Science student/software engineer from Georgia with focus on backend development. I enjoy building things, learning new technologies, and solving problems. When I’m not coding, I enjoy exploring new ideas-whether that’s diving into tech trends, experimenting with music production, or learning about game development and computer graphics.
-
+Hi I’m Dachi a Computer Science student/software engineer from Georgia with a focus on backend development. I enjoy building things, learning new technologies, and solving problems. When I’m not coding, I enjoy exploring new ideas-whether that’s diving into tech trends or experimenting with music production.
 <h2 align="left"> Languages and Tools:</h2>
 <p><b>Technologies I've used:</b></p>
 <div align="left">
