@@ -31,11 +31,6 @@ Hi I’m Dachi a Computer Science student/software engineer from Georgia with a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="JetBrains IDEs" />
 </div>
 
----
-![Dachi Arevadze's Stats](https://github-readme-stats.vercel.app/api?username=Dachacho&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dachacho&theme=highcontrast&hide_progress=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contact Me
 
 - **Email:** [arevadzedachi123@gmail.com](mailto:arevadzedachi123@gmail.com)  
