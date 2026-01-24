@@ -1,6 +1,6 @@
-# Hey there
+# Hello
 
-Hi I’m Dachi a Computer Science student/software engineer from Georgia with a focus on backend development. I enjoy building things, learning new technologies, and solving problems. When I’m not coding, I enjoy exploring new ideas-whether that’s diving into tech trends or experimenting with music production.
+Hi I’m Dachi a Computer Science student/software engineer from Georgia with burning passion for understanding stuff at the lowest level. I love building things, deep diving and solving problems. right now my main focus outside of work is in systems programming (stuff like: OS, Compiler Theory, Database Internals, Networking and etc.)
 <h2 align="left"> Languages and Tools:</h2>
 <p><b>Technologies I've used:</b></p>
 <div align="left">
@@ -10,17 +10,10 @@ Hi I’m Dachi a Computer Science student/software engineer from Georgia with a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
-  <!-- Java and Spring -->
+  <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
-    <!-- C# and .NET -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
-  <!-- Python, Django, FastAPI -->
+  <!-- Python  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <!-- Git, GitHub -->
